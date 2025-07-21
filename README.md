@@ -72,8 +72,10 @@ Performed EDA to extract insights and visualize message patterns:
 Tested several machine learning models:
 
 * **Naive Bayes**
-
-**Best model:** Achieved **100% precision** on spam detection.
+ * **Gaussian Naive Bayes**
+ * **Multinomial Naive Bayes**
+ * **Bernoulli Naive Bayes**
+* **Best model:** Achieved **100% precision** on spam detection.
 
 ---
 
