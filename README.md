@@ -72,12 +72,6 @@ Performed EDA to extract insights and visualize message patterns:
 Tested several machine learning models:
 
 * **Naive Bayes**
-* **Random Forest**
-* **K-Nearest Neighbors**
-* **Decision Tree**
-* **Logistic Regression**
-* **Extra Trees Classifier**
-* **Support Vector Machine (SVC)**
 
 **Best model:** Achieved **100% precision** on spam detection.
 
